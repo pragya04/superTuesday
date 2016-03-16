@@ -36,7 +36,7 @@ spans[4];      // undefined
 Optional `context` specified as a second argument:
 
 ```javascript
-var elems = $$(".bob", document.getElementById("bocoup"));
+var elems = $$(".bob", document.getElementById("netflix"));
 ```
 
 Iteration over selection:
@@ -46,3 +46,4 @@ $$("div").forEach(function(elem, idx) {
   console.log("Element #" + idx + " in this selection: ", elem);
 });
 ```
+# superTuesday
